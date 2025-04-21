@@ -1,0 +1,16 @@
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\bin\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.deps.json
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\bin\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\bin\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.pdb
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\bin\Debug\net8.0\DevOpsProject.Shared.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\bin\Debug\net8.0\DevOpsProject.Shared.pdb
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.csproj.AssemblyReference.cache
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.AssemblyInfoInputs.cache
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.AssemblyInfo.cs
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.csproj.CoreCompileInputs.cache
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.sourcelink.json
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsPr.3654C4FE.Up2Date
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\refint\DevOpsProject.CommunicationControl.Logic.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\DevOpsProject.CommunicationControl.Logic.pdb
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.CommunicationControl.Logic\obj\Debug\net8.0\ref\DevOpsProject.CommunicationControl.Logic.dll

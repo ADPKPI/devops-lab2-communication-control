@@ -1,0 +1,12 @@
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\bin\Debug\net8.0\DevOpsProject.Shared.deps.json
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\bin\Debug\net8.0\DevOpsProject.Shared.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\bin\Debug\net8.0\DevOpsProject.Shared.pdb
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\DevOpsProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\DevOpsProject.Shared.AssemblyInfoInputs.cache
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\DevOpsProject.Shared.AssemblyInfo.cs
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\DevOpsProject.Shared.csproj.CoreCompileInputs.cache
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\DevOpsProject.Shared.sourcelink.json
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\DevOpsProject.Shared.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\refint\DevOpsProject.Shared.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\DevOpsProject.Shared.pdb
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.Shared\obj\Debug\net8.0\ref\DevOpsProject.Shared.dll

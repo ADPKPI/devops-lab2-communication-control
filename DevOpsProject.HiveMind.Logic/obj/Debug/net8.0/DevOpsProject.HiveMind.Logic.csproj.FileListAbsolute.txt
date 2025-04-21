@@ -1,0 +1,16 @@
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\bin\Debug\net8.0\DevOpsProject.HiveMind.Logic.deps.json
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\bin\Debug\net8.0\DevOpsProject.HiveMind.Logic.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\bin\Debug\net8.0\DevOpsProject.HiveMind.Logic.pdb
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\bin\Debug\net8.0\DevOpsProject.Shared.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\bin\Debug\net8.0\DevOpsProject.Shared.pdb
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsProject.HiveMind.Logic.csproj.AssemblyReference.cache
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsProject.HiveMind.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsProject.HiveMind.Logic.AssemblyInfoInputs.cache
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsProject.HiveMind.Logic.AssemblyInfo.cs
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsProject.HiveMind.Logic.csproj.CoreCompileInputs.cache
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsProject.HiveMind.Logic.sourcelink.json
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsPr.ABC2454C.Up2Date
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsProject.HiveMind.Logic.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\refint\DevOpsProject.HiveMind.Logic.dll
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\DevOpsProject.HiveMind.Logic.pdb
+D:\Vidzet\ФИОТ\6\DEVOPS\hiveemulator\src\CommunicationControl\DevOpsProject.HiveMind.Logic\obj\Debug\net8.0\ref\DevOpsProject.HiveMind.Logic.dll
